@@ -1,16 +1,14 @@
 # 🤖 PingPongBot
 
-A simple Discord bot built with Python and `discord.py` that responds to a `/ping` slash command with a friendly "🏓 Pong!" — hosted 24/7 using Replit and UptimeRobot.
-
+A simple Discord bot built with Python and `discord.py`!
 [🌐 Run on Replit](https://replit.com/@rafidahmed6548/PingPongBot)
 
 ---
 
 ## ✨ Features
 
-- ✅ Slash command support (`/ping`)
+- ✅ Slash command support 
 - 🌍 Global command registration
-- 🔄 24/7 uptime using Flask + UptimeRobot
 - 🧠 Clean and beginner-friendly code structure
 
 ---
